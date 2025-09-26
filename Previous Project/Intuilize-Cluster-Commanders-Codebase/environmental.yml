@@ -1,0 +1,22 @@
+name: IntuilizeEnv
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - conda-forge::seaborn
+  - scipy
+  - matplotlib
+  - astropy
+  - ipykernel
+  - plotly
+  - scikit-fuzzy
+  - NetworkX
+  - tensorflow
+  - lightgbm
+  - seaborn

@@ -39,6 +39,12 @@ env/
 *.json
 *.parquet
 
+# Large files
+*.zip
+*.mp4
+*.mov
+*.avi
+
 # OS files
 .DS_Store
 .DS_Store?

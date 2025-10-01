@@ -39,11 +39,25 @@ env/
 *.json
 *.parquet
 
-# Large files
+# Large files and media
 *.zip
 *.mp4
 *.mov
 *.avi
+*.pkl
+*.pptx
+*.docx
+
+# Specific large files (over 1MB)
+datasets/enhanced/*.csv
+datasets/original/*.csv
+Intuilize Data/*.csv
+Previous Project/**/*.csv
+Previous Project/**/*.zip
+Previous Project/**/*.mp4
+Previous Project/**/*.pptx
+Previous Project/**/*.docx
+Previous Project/**/*.pkl
 
 # OS files
 .DS_Store

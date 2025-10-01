@@ -33,7 +33,6 @@ env/
 .ipynb_checkpoints
 
 # Data files (comment out if you want to include them)
-*.csv
 *.xlsx
 *.xls
 *.json

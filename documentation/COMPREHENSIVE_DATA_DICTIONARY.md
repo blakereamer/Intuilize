@@ -3,7 +3,7 @@
 
 ## Overview
 This document provides detailed explanations for every feature across the three enhanced datasets:
-1. **Customer Features Enhanced** - 50,000+ customers with 60+ features
+1. **Customer Features Enhanced** - 1,077 customers with 69 features
 2. **Product Features Enhanced** - All products with 50+ features  
 3. **Merged Elasticity Dataset Enhanced** - Transaction-level data with customer and product context
 
@@ -11,8 +11,8 @@ This document provides detailed explanations for every feature across the three 
 
 ## 1. CUSTOMER FEATURES ENHANCED DATASET
 **File:** `customer_features_enhanced.csv`  
-**Records:** 50,000+ customers (stratified sample: 20% high-value, 60% mid-value, 20% low-value)  
-**Features:** 60+ columns
+**Records:** 1,077 customers (100% of available customers: 20% high-value, 60% mid-value, 20% low-value)  
+**Features:** 69 columns
 
 ### Primary Identifiers
 | Feature | Description | Data Type | Example Values |

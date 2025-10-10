@@ -1,0 +1,5 @@
+,,TotalRevenue,TotalRevenue,TotalRevenue,TotalProfit,TotalProfit,TotalProfit,ProfitMargin,ProfitMargin,ProfitMargin,SalesQty_sum,SalesQty_sum,SalesQty_sum,ExtPrice_mean,ExtPrice_mean,ExtPrice_mean,AvgOrderValue,AvgOrderValue,AvgOrderValue,OrderNumber_nunique,OrderNumber_nunique,OrderNumber_nunique,QuoteConversionRate,QuoteConversionRate,QuoteConversionRate
+,,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+Segment,Segment_Label,,,,,,,,,,,,,,,,,,,,,,,,
+Segment 1,📊 Steady Performers,1539.4086292951424,264.07,37426,328.99493370384226,78.265,37426,0.28208464471642264,0.32999350414046075,37426,4773.562336343718,48.0,37426,159.2682326938492,65.9551,37426,174.23305098695158,70.0875,37426,13.449233153422755,3.0,37426,0.9539443884286574,0.9444444444444444,37426
+Segment 2,🏆 Revenue Drivers,70625.89452096829,33990.13,2933,21364.376427037165,10156.6,2933,0.32099362978966056,0.3003494983113575,2933,579775.097170133,12892.0,2933,2297.9407945448347,593.3192,2933,2999.493141078175,674.7883884648007,2933,231.50630753494715,84.0,2933,0.9118742109009979,0.8867924528301887,2933
